@@ -27,5 +27,8 @@
     <ClCompile Include="IndependentWork_b.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="IndependentWork_c.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
